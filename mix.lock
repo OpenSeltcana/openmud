@@ -1,0 +1,5 @@
+%{
+  "elixir_uuid": {:hex, :elixir_uuid, "1.2.0", "ff26e938f95830b1db152cb6e594d711c10c02c6391236900ddd070a6b01271d", [:mix], [], "hexpm"},
+  "ini": {:git, "https://github.com/nathanjohnson320/ini.git", "999080ef19843df9e007fbd096ce55e688ef2d92", []},
+  "universa": {:git, "https://github.com/OpenSeltcana/universa.git", "7d39d8850b4dfaa4a37e7a8dc7c15d25e21075ae", []},
+}
